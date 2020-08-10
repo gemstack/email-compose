@@ -1,8 +1,5 @@
 ## COMPOSE EMAIL LAYOUT
 
-things completed 
-things remaining
-
 ### To run the project:
 
 1. npm install
